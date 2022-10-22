@@ -1,5 +1,5 @@
 # 2013.01.02 11:32:43 CET
-#Embedded file name: /usr/lib/enigma2/python/Components/Converter/MyDiskSpaceInfo.py
+Embedded file name: /usr/lib/enigma2/python/Components/Converter/MyDiskSpaceInfo.py
 from Components.Converter.Converter import Converter
 from Components.Element import cached
 from Poll import Poll
